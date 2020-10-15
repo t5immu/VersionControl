@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "week04", "week04\week04.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "week5", "week5\week5.csproj", "{B860606E-1BCF-430D-81EE-DA21FB63D632}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "week06", "WindowsFormsApp1\week06.csproj", "{E8ADD93D-98B5-4BDD-A616-93D9A1DB206D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{B860606E-1BCF-430D-81EE-DA21FB63D632}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B860606E-1BCF-430D-81EE-DA21FB63D632}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B860606E-1BCF-430D-81EE-DA21FB63D632}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8ADD93D-98B5-4BDD-A616-93D9A1DB206D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8ADD93D-98B5-4BDD-A616-93D9A1DB206D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8ADD93D-98B5-4BDD-A616-93D9A1DB206D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8ADD93D-98B5-4BDD-A616-93D9A1DB206D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
